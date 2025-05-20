@@ -1,0 +1,46 @@
+.gallery img {
+  width: 100%;  
+}
+
+#Thor {
+  width: 60%;
+  clip-path:circle(65%);
+  margin-left: 23%;
+}
+p{
+  text-align: center;
+}
+h2{
+  text-align: center;
+  text-decoration: underline;
+}
+
+#Iron{
+  width: 60%;
+  clip-path:circle(65%);
+  margin-left: 23%;
+}
+
+#hulk{
+  width: 60%;
+  clip-path:circle(65%);
+  margin-left: 23%;
+}
+
+#hawk{
+  width: 60%;
+  clip-path:circle(65%);
+  margin-left: 23%;
+}
+
+#cap{
+  width: 60%;
+  clip-path:circle(65%);
+  margin-left: 23%;
+}
+
+#widow{
+  width: 60%;
+  clip-path:circle(65%);
+  margin-left: 23%;
+}
